@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="description">Nội dung</string>
+    <string name="btn_text_vi">Tiếng Việt</string>
+    <string name="btn_text_e">English</string>
+</resources>
